@@ -1,0 +1,6 @@
+/pomp
+/pomp.exe
+*.test
+*.out
+.vscode/
+.idea/
